@@ -7,6 +7,6 @@ Data/
 .date_info.csv
 .hpg_reserve.csv
 .hpg_store_info.csv
-.recruit-restaurant-visitor-forecasting.zip
 .sample_submission.csv
 .store_id_relation.csv
+.visitor_forecasting_EDA.R
